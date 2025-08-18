@@ -1,6 +1,6 @@
 # Trabajo Práctico 01 - Git Flow
 
-Este es mi trabajo práctico sobre Git Flow para la materia de repositorios de software.
+Este es mi trabajo práctico sobre Git Flow para la materia de Metodologia de Sistemas II.
 
 ## Objetivo del trabajo
 
@@ -25,13 +25,26 @@ Voy a trabajar con:
 
 Versión: 1.0.0 en desarrollo
 
+### Estructura del proyecto:
+```
+Proyecto_Git_Flow_Practica/
+├── index.html          # Página principal
+├── css/
+│   └── styles.css      # Estilos de la aplicación
+├── js/
+│   └── main.js         # Funcionalidad JavaScript
+└── README.md           # Documentación
+```
+
 Lo completado hasta ahora:
 - Configuración de Git con mis datos personales
-- Inicialización del repositorio local
-- Creación del README
+- Inicialización del repositorio local y remoto
+- Creación de ramas main y develop
+- Estructura básica de aplicación web
+- Rama feature para nueva funcionalidad
 
 Próximos pasos:
-- Conectar con el repositorio remoto en GitHub
-- Crear la rama develop
-- Implementar features siguiendo Git Flow
-- Realizar el primer release
+- Completar commits de la feature
+- Crear Pull Request
+- Implementar flujo de release
+- Practicar resolución de conflictos
