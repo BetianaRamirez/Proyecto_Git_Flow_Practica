@@ -1,16 +1,37 @@
-# Proyecto_Git_Flow_Practica
+# Trabajo Práctico 01 - Git Flow
 
-Este es un proyecto de práctica para aprender Git Flow.
+Este es mi trabajo práctico sobre Git Flow para la materia de repositorios de software.
 
-## Descripción
+## Objetivo del trabajo
 
-Proyecto para implementar el flujo de trabajo Git Flow con las siguientes características:
-- Rama main para producción
-- Rama develop para desarrollo
+En este TP voy a implementar el flujo de trabajo Git Flow completo siguiendo los ejercicios dados en clase.
+
+Voy a trabajar con:
+- Rama main para el código estable
+- Rama develop para desarrollo continuo  
 - Ramas feature para nuevas funcionalidades
 - Ramas release para preparar versiones
-- Manejo de conflictos
+- Resolución de conflictos
 
-## Versión
+## Actividades a realizar
 
-v1.0.0 (en desarrollo)
+1. Configuración inicial de Git
+2. Creación del repositorio local y remoto
+3. Implementación de Git Flow
+4. Simulación de un flujo de release
+5. Manejo de conflictos
+
+## Estado del trabajo
+
+Versión: 1.0.0 en desarrollo
+
+Lo completado hasta ahora:
+- Configuración de Git con mis datos personales
+- Inicialización del repositorio local
+- Creación del README
+
+Próximos pasos:
+- Conectar con el repositorio remoto en GitHub
+- Crear la rama develop
+- Implementar features siguiendo Git Flow
+- Realizar el primer release
