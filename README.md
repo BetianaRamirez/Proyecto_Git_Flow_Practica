@@ -1,6 +1,6 @@
 # Trabajo Práctico 01 - Git Flow
 
-Este es mi trabajo práctico sobre Git Flow para la materia de repositorios de software.
+Este es mi trabajo práctico sobre Git Flow para la materia de Metodologia de Sistemas II.
 
 ## Objetivo del trabajo
 
